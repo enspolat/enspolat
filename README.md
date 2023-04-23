@@ -1,5 +1,6 @@
 # 💫 About Me:
-<br>I am Enes Front-end developer
+<h1 align="center"> Hi 👋, I'm Enes Polat </h1>
+<h3 align="center">A passionate Front-End Developer from Turkey</h3>
 
 <br>🔭 I’m currently working on Freelance
 
